@@ -18,3 +18,15 @@
 
 # Ignore application configuration
 /config/application.yml
+
+# Ignore DS_Store files
+.DS_Store
+
+public/assets/*
+
+*.swp
+
+# Ignore test-generated files
+/coverage/*
+
+spec/cassettes/*
