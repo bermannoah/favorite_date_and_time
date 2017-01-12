@@ -1,0 +1,18 @@
+.footer {
+  display: flex;
+  justify-content: center;
+  margin-top: 30rem;
+}
+
+.footer-text {
+  font-size: 2rem;
+}
+
+.footer-link {
+  text-decoration: none;
+}
+
+.email-link {
+  margin-top: 1rem;
+  margin-bottom: 9rem;
+}

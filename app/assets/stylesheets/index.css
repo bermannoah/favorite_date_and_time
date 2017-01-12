@@ -1,0 +1,35 @@
+.table-resize {
+  margin-top: 10rem;
+  display: flex;
+  justify-content: center;
+  font-size: 3rem;
+}
+
+.date-fix {
+	display: flex;
+	justify-content: center;
+}
+
+.header-fix {
+	text-align:  center;
+	font-weight:  bold;
+}
+
+.text-fix {
+	font-size: 3rem;
+	margin: 10px;
+	display: flex;
+	justify-content: center;
+}
+
+.link-text-fix {
+	font-size: 2rem;
+	text-decoration:  none;
+}
+
+.link-fix {
+	text-decoration: none;
+}
+.body-text {
+	margin: 30px;
+}
