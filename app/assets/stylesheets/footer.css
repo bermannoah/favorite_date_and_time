@@ -2,7 +2,6 @@
   display: flex;
   justify-content: center;
   margin-top: 30rem;
-  margin-bottom: 10rem;
 }
 
 .footer-text {
@@ -11,4 +10,9 @@
 
 .footer-link {
   text-decoration: none;
+}
+
+.email-link {
+  margin-top: 1rem;
+  margin-bottom: 9rem;
 }
