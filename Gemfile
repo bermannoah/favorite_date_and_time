@@ -31,7 +31,7 @@ gem 'jbuilder', '~> 2.5'
 # gem 'bcrypt', '~> 3.1.7'
 gem 'figaro'
 gem 'faraday'
-gem 'google-api-client'
+gem 'wikipedia-client'
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
